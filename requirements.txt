@@ -1,0 +1,9 @@
+flask>=2.1.2
+Flask-Admin>=1.6.0
+Flask-Bootstrap>=3.3.7.1
+Flask-Migrate>=3.1.0
+Flask-Script>=2.0.6
+Flask-SQLAlchemy>=2.5.1
+PyJWT>=2.4.0
+Flask-Login>=0.6.1
+passlib
